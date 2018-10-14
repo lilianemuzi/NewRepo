@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 2A87-1254
+
+ Directory of C:\Users\Muzi\Desktop\myproject
+
+2018/10/14  15:44    <DIR>          .
+2018/10/14  15:44    <DIR>          ..
+2018/10/14  15:44                 0 myfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  49,177,100,288 bytes free
